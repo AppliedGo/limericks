@@ -39,8 +39,8 @@ The Go proverbs capture the essence of Go. Too concise for your taste? No worrie
 >
 > My sincere apologies to Edward Lear.
 
-# Go Proverbs
-*Simple, Poetic, Pithy*
+# Go Proverbs, Explained in Limericks
+[*Simple, Poetic, Pithy*](https://go-proverbs.github.io/)
 
 ## Don't communicate by sharing memory, share memory by communicating.
 
@@ -52,11 +52,132 @@ Of wisdom were soon discovered.
 
 ## Concurrency is not parallelism.
 
-There once was a programmer named Bress,\
+<!--There once was a programmer named Bress,\
 Who thought concurrency was best,\
 But parallelism he found,\
 Was a completely different ground,\
 And his code finally ran with finesse.
+
+There once was a concurrency rule\
+That said it's not parallelism cool\
+So don't be confused\
+Or your code will be bruis-ed\
+Just use it for multitasking, you fool!
+
+There once was a language called Go,
+Whose concurrency was not parallel-o,
+It may seem the same,
+But there's a big difference to tame,
+So listen up and don't be a dillo.
+
+There once was a programmer named P.
+He thought concurrency was parallelism, oh boy.
+But soon he learned that's not true,
+And now his code runs through,
+Thanks to the wisdom of Go.
+
+There once was a concurrency pro
+Who said, "Parallelism, you know
+It's not the same thing
+Concurrency's king
+But parallelism's just for show"
+
+There once was a Go programmer
+Who said with a nod and a stammer
+"Concurrency's not
+Parallelism, you ought
+To know it, it's not the same hammer."
+
+There once was a code so fine
+That concurrency was divine
+But beware of the trap
+Parallelism's a snap
+That's not the same, oh so fine!
+
+There once was a concurrency so fine
+It was not parallelism, but divine
+It allowed for great speed
+In tasks that we need
+And made our programs much more refined.
+
+A concurrent program may run fast
+But parallelism it does not surpass
+For concurrency means
+That tasks are in between
+But parallelism needs more than one cast
+
+Concurrent tasks may be run,
+But parallelism is a bit more fun,
+It means multiple paths,
+All executing at once,
+While concurrent just means they're not done.
+
+There once was a programmer named Go
+Who loved concurrent programming, don't you know
+It's not quite the same
+As parallel programming's game
+But both seek efficiency, that's for sure, oh!
+
+-- The next two were generated from the same prompt.
+
+Concurrent programming involves the sharing
+Of resources by processes that are daring
+They execute in turn
+But the order is not discerned
+And no speedup is expected from pairing
+
+Parallel programming takes a different track
+With multiple threads that will never look back
+They run in parallel
+And the order is parallel
+And speedup is the goal that they'll attack
+
+--
+
+There once was a programmer named Joe
+Who wanted to learn concurrent and parallel Go
+He learned that concurrent means things happen in turns
+While parallel means they all run and burn
+Now he codes with efficiency and speed, don't you know!
+
+There once was a programmer named Moe
+Who thought concurrent and parallel were the same
+But when he tried to code
+He found the load
+Was not distributed and the program was lame
+
+There once was a Go programmer
+Whose code was concurrent but not faster
+Though he thought it would run
+In parallel, it was done
+One CPU core at a time, not blaster.
+
+There once was a Go programmer,
+Whose concurrent code was a hammer,
+But despite the best tries,
+It didn't parallelize,
+Because the scheduler's hands were tied.
+
+There once was code in Go concurrent,
+But not always parallel it was sent,
+Due to CPU cores,
+It may not run in scores,
+And thus not as fast as intended.
+
+There once was a code that was grand
+It ran concurrently in demand
+But alas, it was not
+Run in parallel, it was caught
+And thus, its speed was not as planned.
+
+Bottom line: Apparently ChatGPT has a hard time explaining the difference between concurrency and parallelism without making concurrency look inefficient or even pointless. I picked the best of the bunch, with small edits.
+-->
+
+There once was a programmer named Joe.\
+He thought concurrency was parallelism, oh no!\
+But soon he learned that's not true,\
+And now his code runs through,\
+Thanks to the wisdom of Go.
 
 ## Channels orchestrate; mutexes serialize.
 
