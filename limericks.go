@@ -20,13 +20,13 @@ Comments and code in this file are used for describing and explaining a particul
 
 +++
 title = "Poetry time! Go proverbs as limericks"
-description = ""
+description = "Do you need explanations for Rob Pike's Go proverbs? Try this limerick version."
 author = "Christoph Berger"
 email = "chris@appliedgo.net"
 date = "2022-12-08"
 draft = "false"
 categories = ["Patterns and Paradigms"]
-tags = ["proverbs", "best-practices", ""]
+tags = ["proverbs", "best-practices", "poetry"]
 articletypes = ["Odds And Ends"]
 +++
 
@@ -35,12 +35,12 @@ The Go proverbs capture the essence of Go. Too concise for your taste? No worrie
 
 <!--more-->
 
+# Go Proverbs, Explained in Limericks
+[*Simple, Poetic, Pithy*](https://go-proverbs.github.io/)
+
 > With a (not so) tiny bit of help from ChatGPT.
 >
 > My sincere apologies to Edward Lear.
-
-# Go Proverbs, Explained in Limericks
-[*Simple, Poetic, Pithy*](https://go-proverbs.github.io/)
 
 ## Don't communicate by sharing memory, share memory by communicating.
 
