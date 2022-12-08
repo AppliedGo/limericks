@@ -38,17 +38,44 @@ The Go proverbs capture the essence of Go. Too concise for your taste? No worrie
 # Go Proverbs, Explained in Limericks
 [*Simple, Poetic, Pithy*](https://go-proverbs.github.io/)
 
-> With a (not so) tiny bit of help from ChatGPT.
+> With a (not so) tiny bit of help from ChatGPT, the AI chatbot.
 >
 > My sincere apologies to Edward Lear.
 
-## Don't communicate by sharing memory, share memory by communicating.
+## Prologue
 
 Once there was a Go programmer\
 Whose code was quite a bummer\
 But he followed the rules\
 Of the Go proverbs, and jewels\
 Of wisdom were soon discovered.
+
+## Don't communicate by sharing memory, share memory by communicating.
+
+<!-- There once was a programmer named Pete\
+Who shared memory, it was quite a feat\
+But he learned in the end\
+It's better to communicate and blend\
+Don't share memory, just talk and meet.
+
+There once was a code that was bold
+Which communicated with memory to hold
+But alas, it was found
+That this method was bound
+To cause issues, both big and small, and be untold.
+
+So it was decided with care
+To share memory through communication, so fair
+And thus, the code ran
+Without causing a ban
+On concurrent execution, without a scare.
+-->
+
+There once was a code that was grand\
+It shared memory, but not as planned\
+"Communicate, don't share"\
+Was the lesson to bear\
+And thus, the code ran as it can.
 
 ## Concurrency is not parallelism.
 
